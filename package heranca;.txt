@@ -1,0 +1,12 @@
+package heranca;
+public class App {
+public static void main(String[] args) {
+Pessoa p a new Pessoa ();
+p.codigo a 1;
+p.rome = "Jose";
+p.BatadeNascimento = "08/03/1980";
+Cliente c a new Cliente);
+c.codigo • 2;
+Conome - "Maria";
+c.databeNascimento = »10/12/19635;
+c. limiteDeCompra = 1000;
